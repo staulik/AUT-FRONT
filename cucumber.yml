@@ -1,0 +1,2 @@
+default: --no-source --color --format pretty -f json -o resultado.json
+default: --no-source --color --format pretty -f html -o resultado.html
